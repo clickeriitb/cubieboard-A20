@@ -1,0 +1,18 @@
+
+Before getting started, let's get our system and applications ready.
+
+In order to run ubuntu on cubieboard A20 following things are needed:
+
+1)	Ubuntu 12.04 (Desktop system),
+
+2)	Android SDK (adt-bundle-linux-x86),
+
+3)	SD Card Reader,
+
+4)	Sd card (8 gb),
+
+5)	connectbot app on cubieboard,
+
+6)	android vnc and
+
+7)	lan cable with internet connection on cubieboard
