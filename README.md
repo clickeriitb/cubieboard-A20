@@ -4,7 +4,7 @@ cubieboard-A20
 List of Contents
 ----------------
 
-1) A20_hardware_details
+1) #. `A20_hardware_details <https://github.com/clickeriitb/cubieboard-A20/blob/master/A20_harware_details>`_
 
 2) setting_up_the_hardware
 
