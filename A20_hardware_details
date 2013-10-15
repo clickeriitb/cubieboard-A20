@@ -1,4 +1,3 @@
-
 A20 Hardware Specifications
 ===========================
 
@@ -23,11 +22,3 @@ Video output 	        HDMI 1080p Output
 Networking 	          10/100M Ethernet, optional WiFi
 
 Internal storage      4GB NAND Flash
-
-IO 	                  2 x USB Host, 1 x MicroSD slot, 1 x SATA, 1 x IR sensor
-
-Extended interfaces 	96 extend pin interface, including I2C, SPI,RGB/LVDS, CSI/TS, FM-IN, ADC, CVBS, VGA, SPDIF-OUT, R-TP, and more
-
-Software 	            Android, Official Linux distribution available
-
-Power 	              Requires regulated 5VDC 2A power supply with a 4.0mm(ext. diameter) x 1.7mm (int. diameter) barrel plug
