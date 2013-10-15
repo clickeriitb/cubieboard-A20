@@ -1,0 +1,33 @@
+
+A20 Hardware Specifications
+===========================
+
+The Cubieboard A20 is powered by the popular Allwinner A20 dual core SOC (system On Chip) with ARM Cortex A7 CPU and Dual Core Mali400MP2 GPU.
+
+This board also comes with SATA support which give us an advantage of attaching our Harddrives.
+
+The board comes with two USB ports,HDMI,IR,serial,Ethernet,SATA and 96 pin extended interface.
+
+
+Other Technical Specifications
+------------------------------
+
+CPU 	                Dual core ARM Cortex A7 processor, NEON, VFPv4, 512KB L2-Cache
+
+GPU 	                Dual core ARM Mali400 MP2, 1 vertex shader, 2 fragment shaders, OpenGL ES 2.0
+
+Memory 	              1GB DDR3 @480MHz
+
+Video output 	        HDMI 1080p Output
+
+Networking 	          10/100M Ethernet, optional WiFi
+
+Internal storage      4GB NAND Flash
+
+IO 	                  2 x USB Host, 1 x MicroSD slot, 1 x SATA, 1 x IR sensor
+
+Extended interfaces 	96 extend pin interface, including I2C, SPI,RGB/LVDS, CSI/TS, FM-IN, ADC, CVBS, VGA, SPDIF-OUT, R-TP, and more
+
+Software 	            Android, Official Linux distribution available
+
+Power 	              Requires regulated 5VDC 2A power supply with a 4.0mm(ext. diameter) x 1.7mm (int. diameter) barrel plug
