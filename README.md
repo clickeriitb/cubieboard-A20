@@ -16,6 +16,6 @@ List of Contents
 
 6) installing_packages_in_ubuntu
 
-7) faqs
+7) FAQS
 
 8) references
