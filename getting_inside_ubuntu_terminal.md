@@ -1,4 +1,3 @@
-
 Steps to get inside ubuntu terminal
 -----------------------------------
 
