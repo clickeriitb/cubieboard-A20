@@ -1,4 +1,3 @@
-
 Steps for installing packages in ubuntu
 =======================================
 
@@ -64,7 +63,9 @@ Step 5) now click on connectbot icon which appears inside menu option
 
 Step 6) select “ssh” from the drop down list and type:
 
-	      root@127.0.0.1 (click on Done)
+	      root@127.0.0.1 
+	      
+	      then, click on Done button
 
 Step 7) type root password which has been recently created on Step 3
 
