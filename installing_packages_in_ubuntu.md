@@ -1,5 +1,4 @@
 
-
 Steps for installing packages in ubuntu
 =======================================
 
@@ -111,9 +110,11 @@ Method III) - Directly booting ubuntu from external sdcard
 
 Step 1) put the sdcard into sdcard reader and attach it to computer
 
-Step 2) Download the file from here
+Step 2) Download the file from [here]
 
-Step 3) open the terminal and type:
+Step 3) save it on desktop and extract it
+
+Step 3) open the terminal, go inside the Cubiuntu0.x.x directory and type:
 
         sudo dd bs=10m if=/home/ashish/Desktop/Cubiuntu0.6.5a-a20.img of=/dev/sdb (press enter)
 
@@ -132,3 +133,5 @@ username:linaro
 password:linaro
 
 That's it !!!
+
+[here]: http://dl.cubieforums.com/patwood/Cubiuntu0.6.5a-a20.img.xz
