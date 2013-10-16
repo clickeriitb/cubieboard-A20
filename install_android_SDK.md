@@ -3,7 +3,7 @@ Steps to download and install android SDK
 
 Step 1) Power on your ubuntu system and log-in with your user-id and password
 
-Step 2) to download android sdk click [here]
+Step 2) to download android sdk click [1]
 
 Step 3) save it on your Desktop
 
@@ -15,4 +15,4 @@ Step 4) open command terminal and type:
 
 Note: A folder named "adt-bundle-windows-x86-20130917" will appear.
 
-[here]: dl.google.com/android/adt/adt-bundle-linux-x86-20130917.zip
+[1]: dl.google.com/android/adt/adt-bundle-linux-x86-20130917.zip
