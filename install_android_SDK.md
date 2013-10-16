@@ -15,4 +15,4 @@ Step 4) open command terminal and type:
 
 Note: A folder named "adt-bundle-windows-x86-20130917" will appear.
 
-[here]: [dl.google.com/android/adt/adt-bundle-linux-x86-20130917.zip]
+[here]: http://dl.google.com/android/adt/adt-bundle-linux-x86-20130917.zip
