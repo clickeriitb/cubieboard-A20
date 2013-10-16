@@ -4,7 +4,7 @@ cubieboard-A20
 List of Contents
 ----------------
 
-1) A20_hardware_details
+1) A20_hardware_details  leave it empty and use the [link text itself]
 
 2) setting_up_the_hardware
 
@@ -19,3 +19,5 @@ List of Contents
 7) FAQS
 
 8) references
+
+[link text itself]: http://www.reddit.com
