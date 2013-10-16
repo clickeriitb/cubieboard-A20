@@ -5,7 +5,7 @@ Step 1) put sdcard (8Gb) inside the sdcard reader
 
 Step 2) put the card reader into usb port of your computer
 
-Step 3) to download "ubuntu.zip" visit [here] and click on "click here to Download".
+Step 3) to download "ubuntu.zip" visit [here] and click on "CLICK HERE to Download".
 
 Step 4) save the file on desktop
 
