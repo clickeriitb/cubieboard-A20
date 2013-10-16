@@ -5,7 +5,7 @@ Step 1) put sdcard (8Gb) inside the sdcard reader
 
 Step 2) put the card reader into usb port of your computer
 
-Step 3) Download "ubuntu.zip" file from [here]
+Step 3) Download "ubuntu.zip" file from [here].click on click here to Download.
 
 Step 4) save this file on desktop
 
@@ -77,4 +77,4 @@ root@localhost:/#
 Then, congratulations !!! you are now running Ubuntu on your device!!
 
 
-[here]: http://mirror22.downloadandroidrom.com/download/AndroidUbuntu/ubuntu.zip?token=841322312
+[here]: http://mirror22.downloadandroidrom.com/download/AndroidUbuntu/ubuntu.zip?token=
