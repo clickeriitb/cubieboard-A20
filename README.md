@@ -30,7 +30,7 @@ List of Contents
 
 8) [references]
 
-We will be constantly updating this repository with added functionalities and new updates.
+We will keep posting new updates on this repository.
 
 [A20_hardware_details]: https://github.com/clickeriitb/cubieboard-A20/blob/master/A20_hardware_details
 [setting_up_the_hardware]: https://github.com/clickeriitb/cubieboard-A20/blob/master/setting_up_the_hardware
